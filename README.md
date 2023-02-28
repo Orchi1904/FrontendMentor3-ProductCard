@@ -4,7 +4,7 @@ This is my solution to the [Product preview card component challenge on Frontend
 
 Challenge Level: 1 -> Newbie 🟢
 
-🕒 Estimated time: 3h
+🕒 Estimated time: 3h                                                                                                                                                 
 🕑 Time taken:     2h
 
 ## Table of contents
