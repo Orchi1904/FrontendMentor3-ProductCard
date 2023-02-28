@@ -35,7 +35,7 @@ Here is a screenshot of my solution:
 
 ### Links
 
-- Link to the solution: [Product card challenge](https://your-solution-url.com)
+- Link to the solution: [Product card challenge](https://www.frontendmentor.io/solutions/challenge-3-product-preview-card-challenge-using-react-YXePzeb14K)
 - Live Site URL: [See solution on my live site](https://frontend-mentor3-product-card.vercel.app/)
 
 ## My process
